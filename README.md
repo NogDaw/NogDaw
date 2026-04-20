@@ -1,4 +1,4 @@
-1st year student at the Faculty of Automatic Control, Electronics and Computer Science at the Silesian University of Technology
+2nd year student at the Faculty of Automatic Control, Electronics and Computer Science at the Silesian University of Technology
 
 <!---
 NogDaw/NogDaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
